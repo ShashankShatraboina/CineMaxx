@@ -101,7 +101,7 @@ Use the search bar to find **movies or TV shows**, click on a result to explore 
 
 The app is deployed on **Vercel** and accessible online:
 
-👉 [CineMaxx Live](https://movix-nu-coral.vercel.app/)
+👉 [CineMaxx Live](https://cine-maxx-shashank.vercel.app/)
 
 ---
 
@@ -118,7 +118,7 @@ Contributions are welcome!
 ## 📬 Contact
 
 For questions or suggestions, reach out at:
-📧 **[your-email@example.com](mailto:your-email@example.com)**
+📧 **shashankshatraboina@gmail.com**
 
 ---
 
