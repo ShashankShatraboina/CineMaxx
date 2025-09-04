@@ -1,44 +1,68 @@
-# Movix
-A React Based Online Movie Information Website
+🎬 CineMaxx – Online Movie Information Website
 
-Wanna know about a partciular movie? Wanna know about the cast details, imdb rating or watch the trailer! We got you covered! Visit our site Movix right now!!!
-<br />
+Looking for details about your favorite movie? Want to know the cast, IMDb rating, or even watch the trailer? Movix has you covered!
 
-The site is live at https://movix-nu-coral.vercel.app/ 😍😍😍 VISIT RIGHT NOW!!!
+👉 Live Demo: CineMaxx on Vercel
+ 😍
 
-## Tech Stack 🗃
-React | SCSS
+🚀 Features
 
-##  Getting Started 👨‍💻
-### Setup the repository to your local environment.
+Search for movies and TV shows
 
-1. `Fork` the repository  - Creates a replica of repository to your local environment.
-2. Clone the repository - Downloads all repo files to your machine, using
-  ```git
-  git clone https://github.com/YOUR-USERNAME/Movix
-  ``` 
-3. Set working directory to the root directory of the project.
-  ```sh
-  cd Movix
-  ```
+View detailed cast information
 
-## Server 💻
+Check IMDb ratings
 
-Following are the steps to run the app on your local machine. All the code will go in the `Movix` folder.
+Watch official trailers
 
-1. Navigate to `Movix` folder.
-  ```sh
-  cd Movix
-  ```
-2. Install all the required packages and dependencies.
-  ```node
-  npm install
-  ```
-3. Run the server.
-  ```node
-  npm run dev
-  ```
-4. Navigate to your localhost url.
-  ```text
-  http://localhost:<Your Port Number>
-  ```
+🛠 Tech Stack
+
+React ⚛️
+
+SCSS 🎨
+
+👨‍💻 Getting Started
+
+Follow these steps to set up the project locally:
+
+1. Fork the Repository
+
+Click on Fork to create a copy of this repository under your GitHub account.
+
+2. Clone the Repository
+
+Download the project files to your machine:
+
+git clone https://github.com/YOUR-USERNAME/Cinemaxx
+
+3. Navigate to Project Directory
+cd CineMaxx
+
+💻 Run the Server
+
+Go to the project folder:
+
+cd CineMaxx
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+Open the app in your browser:
+
+http://localhost:<your-port-number>
+
+📜 License
+
+This project is licensed under the MIT License.
+
+📍Now you’re all set to explore CineMaxx on your local machine!
+
+🔥 That’s it! You’re ready to explore CineMaxx and dive into the world of movies!
