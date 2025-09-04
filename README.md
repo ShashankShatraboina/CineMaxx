@@ -122,7 +122,7 @@ For questions or suggestions, reach out at:
 
 ---
 
-🔥 That’s it! You’re ready to explore **CineMaxx** and dive into the world of movies!
+🔥 You’re ready to explore **CineMaxx** and dive into the world of movies!
 
 ---
 
